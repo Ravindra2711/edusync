@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Das Ravi\\Testing\\EduSync.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.domain\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|solutionrelative:edusync.domain\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\dtos\\quizdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\dtos\\quizdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\edusync.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\edusync.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7975A1E-A4CC-450F-8323-D9301F9B28FB}|EduSync.Infrastructure\\EduSync.Infrastructure.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7975A1E-A4CC-450F-8323-D9301F9B28FB}|EduSync.Infrastructure\\EduSync.Infrastructure.csproj|solutionrelative:edusync.infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.domain\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|solutionrelative:edusync.domain\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.domain\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|solutionrelative:edusync.domain\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\dtos\\assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\dtos\\assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7975A1E-A4CC-450F-8323-D9301F9B28FB}|EduSync.Infrastructure\\EduSync.Infrastructure.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.infrastructure\\data\\seedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7975A1E-A4CC-450F-8323-D9301F9B28FB}|EduSync.Infrastructure\\EduSync.Infrastructure.csproj|solutionrelative:edusync.infrastructure\\data\\seedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.domain\\edusync.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|solutionrelative:edusync.domain\\edusync.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4592957-9A12-4D1C-8300-FE4D376504FF}|EduSync.Api\\EduSync.Api.csproj|solutionrelative:edusync.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33E1522-63E7-4ABB-B118-161B14FF70BF}|EduSync.Domain\\EduSync.Domain.csproj|solutionrelative:edusync.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7975A1E-A4CC-450F-8323-D9301F9B28FB}|EduSync.Infrastructure\\EduSync.Infrastructure.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.infrastructure\\migrations\\20250520024322_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7975A1E-A4CC-450F-8323-D9301F9B28FB}|EduSync.Infrastructure\\EduSync.Infrastructure.csproj|solutionrelative:edusync.infrastructure\\migrations\\20250520024322_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7975A1E-A4CC-450F-8323-D9301F9B28FB}|EduSync.Infrastructure\\EduSync.Infrastructure.csproj|d:\\das ravi\\testing\\edusync.api\\edusync.infrastructure\\migrations\\20250520035328_addresultentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7975A1E-A4CC-450F-8323-D9301F9B28FB}|EduSync.Infrastructure\\EduSync.Infrastructure.csproj|solutionrelative:edusync.infrastructure\\migrations\\20250520035328_addresultentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "EduSync.Domain\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\Models\\Enrollment.cs",
+              "RelativeToolTip": "EduSync.Domain\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:43:53.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EduSync.Api\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAMUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:43:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardDto.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\DashboardDto.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\DTOs\\DashboardDto.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\DashboardDto.cs",
+              "RelativeToolTip": "EduSync.Api\\DTOs\\DashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:42:23.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizDtos.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\QuizDtos.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\DTOs\\QuizDtos.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\QuizDtos.cs",
+              "RelativeToolTip": "EduSync.Api\\DTOs\\QuizDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:24:43.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\Controllers\\QuizController.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "EduSync.Api\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwFYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:15:56.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionDto.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\QuestionDto.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\DTOs\\QuestionDto.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\QuestionDto.cs",
+              "RelativeToolTip": "EduSync.Api\\DTOs\\QuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:02:34.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EduSync.Api.csproj",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\EduSync.Api.csproj",
+              "RelativeDocumentMoniker": "EduSync.Api\\EduSync.Api.csproj",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\EduSync.Api.csproj",
+              "RelativeToolTip": "EduSync.Api\\EduSync.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T06:42:01.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "EduSync.Api\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:40:10.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\Controllers\\ResultsController.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "EduSync.Api\\Controllers\\ResultsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:56:44.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250520035328_AddResultEntity.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Infrastructure\\Migrations\\20250520035328_AddResultEntity.cs",
+              "RelativeDocumentMoniker": "EduSync.Infrastructure\\Migrations\\20250520035328_AddResultEntity.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Infrastructure\\Migrations\\20250520035328_AddResultEntity.cs",
+              "RelativeToolTip": "EduSync.Infrastructure\\Migrations\\20250520035328_AddResultEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:53:29.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "EduSync.Domain\\Models\\Result.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\Models\\Result.cs",
+              "RelativeToolTip": "EduSync.Domain\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:51:36.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Infrastructure\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EduSync.Infrastructure\\Data\\DataContext.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Infrastructure\\Data\\DataContext.cs",
+              "RelativeToolTip": "EduSync.Infrastructure\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:40:29.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\Models\\Assessment.cs",
+              "RelativeDocumentMoniker": "EduSync.Domain\\Models\\Assessment.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\Models\\Assessment.cs",
+              "RelativeToolTip": "EduSync.Domain\\Models\\Assessment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:19:30.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\Program.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Program.cs",
+              "RelativeToolTip": "EduSync.Api\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwDcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:26:59.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeedInitializer.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Infrastructure\\Data\\SeedInitializer.cs",
+              "RelativeDocumentMoniker": "EduSync.Infrastructure\\Data\\SeedInitializer.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Infrastructure\\Data\\SeedInitializer.cs",
+              "RelativeToolTip": "EduSync.Infrastructure\\Data\\SeedInitializer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:49:16.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\CourseDto.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\DTOs\\CourseDto.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\CourseDto.cs",
+              "RelativeToolTip": "EduSync.Api\\DTOs\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:01:39.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssessmentDto.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\AssessmentDto.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\DTOs\\AssessmentDto.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\DTOs\\AssessmentDto.cs",
+              "RelativeToolTip": "EduSync.Api\\DTOs\\AssessmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:02:12.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EduSync.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EduSync.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwE4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:39:43.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250520024322_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Infrastructure\\Migrations\\20250520024322_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EduSync.Infrastructure\\Migrations\\20250520024322_InitialCreate.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Infrastructure\\Migrations\\20250520024322_InitialCreate.cs",
+              "RelativeToolTip": "EduSync.Infrastructure\\Migrations\\20250520024322_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:43:23.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EduSync.Domain.csproj",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\EduSync.Domain.csproj",
+              "RelativeDocumentMoniker": "EduSync.Domain\\EduSync.Domain.csproj",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\EduSync.Domain.csproj",
+              "RelativeToolTip": "EduSync.Domain\\EduSync.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T04:21:22.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EduSync.Api\\appsettings.json",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Api\\appsettings.json",
+              "RelativeToolTip": "EduSync.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T06:34:30.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EduSync.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\Das Ravi\\Testing\\EduSync.Api\\EduSync.Domain\\Models\\User.cs",
+              "RelativeToolTip": "EduSync.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:21:42.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

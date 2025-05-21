@@ -1,0 +1,15 @@
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\bin\Debug\net8.0\EduSync.Domain.deps.json
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\bin\Debug\net8.0\EduSync.Domain.runtimeconfig.json
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\bin\Debug\net8.0\EduSync.Domain.dll
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\bin\Debug\net8.0\EduSync.Domain.pdb
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.csproj.AssemblyReference.cache
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.AssemblyInfoInputs.cache
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.AssemblyInfo.cs
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.csproj.CoreCompileInputs.cache
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.sourcelink.json
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.dll
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\refint\EduSync.Domain.dll
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.pdb
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\EduSync.Domain.genruntimeconfig.cache
+D:\Das Ravi\Testing\EduSync.Api\EduSync.Domain\obj\Debug\net8.0\ref\EduSync.Domain.dll
